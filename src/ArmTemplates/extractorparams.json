@@ -1,6 +1,7 @@
 {
-    "sourceApimName": "<source-apim-name>",
-    "destinationApimName": "<destination-apim-name>",
-    "resourceGroup": "<resource-group>",
-    "fileFolder": "<destination-file-folder>"
+    "sourceApimName": "icc-iaz-shared-sit-apim",
+    "destinationApimName": "icc-iaz-shared-uat-apim",
+    "resourceGroup": "icc-iaz-shared-rg-sit",
+    "fileFolder": "C:/r/Whitbread-ICC/azure-api-management-devops-resource-kit/src/ArmTemplates/STEPAPIMAPI",
+    "apiName":"STEPInboundData"
 }
